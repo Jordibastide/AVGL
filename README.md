@@ -1,6 +1,6 @@
 # AVGL
 
-IMAC3 OpenGL project developped by [Jordi Bastide](http://jordi-bastide.com/) and [Thibaud Carpentier](https://www.thibaudcarpentier.com)
+IMAC3 OpenGL project developped by [Jordi Bastide](http://jordi-bastide.com/) and [Thibaud Carpentier](http://www.thibaudcarpentier.com)
 
 ### Compilation
 
